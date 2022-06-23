@@ -1,0 +1,8 @@
+{
+    "core.welcome": {
+        "category": "master",
+        "sounds": [
+            "core/welcome"
+        ]
+    }
+}
